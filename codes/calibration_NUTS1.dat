@@ -1,0 +1,8 @@
+% This file was created by save_d0_to_file.m. It contains the various calibrated values of d0 for values of (beta,gamma,mobility,cong,ngoods).
+beta=0.130000 gamma=0.130000 mobility=0.0 cong=0 ngoods=7 d0=0.000005
+beta=1.244600 gamma=1.244600 mobility=0.0 cong=0 ngoods=7 d0=0.434766
+beta=0.130000 gamma=0.100000 mobility=0.0 cong=1 ngoods=7 d0=0.000005
+beta=0.130000 gamma=0.100000 mobility=0.0 cong=1 ngoods=10 d0=0.001809
+beta=0.130000 gamma=0.100000 mobility=1.0 cong=1 ngoods=10 d0=0.002100
+beta=0.130000 gamma=0.169000 mobility=0.0 cong=1 ngoods=10 d0=0.001901
+beta=0.130000 gamma=0.169000 mobility=1.0 cong=1 ngoods=10 d0=0.002207
